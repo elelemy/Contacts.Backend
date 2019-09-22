@@ -1,0 +1,7 @@
+node_modules/
+Upload/
+.DS_Store
+*log
+local.js
+
+*.sublime-*
